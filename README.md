@@ -12,7 +12,7 @@ Submitted to *Natural Hazards and Earth System Sciences (NHESS)*
 
 The interactive figure (`07_strategies.html`) provides a **Sankey-based visualization** of preparedness strategies for compound flooding events, extracted from a systematic review of the scientific literature.
 
-It illustrates the **evolution of strategies over time** (2005–2024), grouped into three thematic dimensions:
+It illustrates the **evolution of strategies over time**, grouped into three thematic dimensions:
 
 - 🧠 **Social** (e.g., risk awareness, stakeholder engagement)  
 - 🌿 **Environmental** (e.g., nature-based solutions, land use planning)  
