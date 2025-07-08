@@ -5,6 +5,7 @@ This repository hosts an interactive figure associated with the article:
 📄 **"Rethinking Preparedness for Coastal Compound Flooding: Insights from a Systematic Review"**  
  Dina Gómez, Anna Scolobig, Manuel del Jesus  
 Submitted to *Natural Hazards and Earth System Sciences (NHESS)*
+🔗 [Read the preprint on EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-262/)
 
 ---
 
