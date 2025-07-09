@@ -12,12 +12,13 @@ Submitted to *Natural Hazards and Earth System Sciences (NHESS)*
 ###  About the Figures
 Two Sankey-based visualizations derived from the systematic review are provided:
 1. 07_strategies.html: This figure illustrates the evolution of preparedness strategies over time, classified into three thematic domains:
+   
   🧠 Social (e.g., risk awareness, stakeholder engagement)
   🌿 Environmental (e.g., nature-based solutions, land use planning)
   🛠️ Technical (e.g., hydrodynamic modeling, early warning systems)
   It highlights temporal trends in research and implementation priorities across compound flood preparedness.
 
-2. 07_strategies_country.html: An extended version of the above figure, incorporating an additional dimension that captures the country context of each strategy.
+3. 07_strategies_country.html: An extended version of the above figure, incorporating an additional dimension that captures the country context of each strategy.
    This visualization allows exploration of how preparedness actions vary across countries and years, while still grouped thematically.
 
 
