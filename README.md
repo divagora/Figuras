@@ -29,12 +29,12 @@ Two Sankey-based visualizations derived from the systematic review are provided:
 
 ### 🌐 Interactive Access
 
-**View the embedded figure:**  
+**View the embedded figures:**  
 [https://divagora.github.io/Figuras/](https://divagora.github.io/Figuras/)
 
 ⚠️ *If the embedded version does not display properly, you can open the figure directly in a new tab:*  
-[View interactive figure](https://divagora.github.io/Figuras/07_strategies.html)
-[View interactive figure](https://divagora.github.io/Figuras/07_strategies_country.html)
+[View 07_strategies](https://divagora.github.io/Figuras/07_strategies.html)
+[View 07_strategies_country](https://divagora.github.io/Figuras/07_strategies_country.html)
 
 
 ---
