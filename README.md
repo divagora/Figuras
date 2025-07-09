@@ -19,7 +19,7 @@ It illustrates the **evolution of strategies over time**, grouped into three the
 - 🌿 **Environmental** (e.g., nature-based solutions, land use planning)  
 - 🛠️ **Technical** (e.g., hydrodynamic modeling, early warning systems)
 
-The visualization shoes how certain strategies have gained prominence in recent years, reflecting changes in research priorities, planning practices, and integrated approaches to compound flooding preparedness.
+The visualization reflects changes in research priorities, planning practices, and integrated approaches to compound flooding preparedness.
 
 ---
 
