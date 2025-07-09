@@ -2,14 +2,14 @@
 
 This repository hosts an interactive figure associated with the article:
 
-📄 **"Rethinking Preparedness for Coastal Compound Flooding: Insights from a Systematic Review"**  
+**"Rethinking Preparedness for Coastal Compound Flooding: Insights from a Systematic Review"**  
  Dina Gómez, Anna Scolobig, Manuel del Jesus  
 Submitted to *Natural Hazards and Earth System Sciences (NHESS)*
 🔗 [Read the preprint on EGUsphere](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-262/)
 
 ---
 
-### 🎯 About the Figure
+###  About the Figure
 
 The interactive figure (`07_strategies.html`) provides a **Sankey-based visualization** of preparedness strategies for compound flooding events, extracted from a systematic review of the scientific literature.
 
