@@ -25,7 +25,7 @@ The visualization reflects shifts in research priorities, planning practices, an
 
 ### 🌐 Interactive Access
 
-🔗 **View the embedded figure:**  
+**View the embedded figure:**  
 [https://divagora.github.io/Figuras/](https://divagora.github.io/Figuras/)
 
 ⚠️ *If the embedded version does not display properly, you can open the figure directly in a new tab:*  
