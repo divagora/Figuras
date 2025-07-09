@@ -28,8 +28,8 @@ The visualization reveals how certain strategies have gained prominence in recen
 🔗 **View the embedded figure:**  
 [https://divagora.github.io/Figuras/](https://divagora.github.io/Figuras/)
 
-💡 *If the embedded version does not display properly, you can open the figure directly in a new tab:*  
-👉 [View interactive figure](https://divagora.github.io/Figuras/07_strategies.html)
+⚠️ *If the embedded version does not display properly, you can open the figure directly in a new tab:*  
+[View interactive figure](https://divagora.github.io/Figuras/07_strategies.html)
 
 ---
 
